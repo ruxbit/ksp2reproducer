@@ -1,0 +1,32 @@
+.gradle
+.kotlin
+/local.properties
+.DS_Store
+**/build
+/expandablepaginator/build
+/uidemo/build
+/captures
+Thumbs.db
+*.apk
+/app/prod
+/app/dev
+/app/web/release/output.json
+/app/cisProd
+/app/**/output-metadata.json
+/detekt-cli
+/hooks/local
+
+# ============================ IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+/.idea/
+out/
+
+# features
+/devtools/profiler/traces
+/devtools/optimizationprofile/results
+
+# Android KeyStores
+*.jks
+*.keystore
